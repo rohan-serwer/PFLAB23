@@ -1,6 +1,34 @@
-# 22K4009
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/c880a80a-d86a-4cc7-866d-aad227010773)# 22K4009
 # RohanSerwer
 ## Scratch:
 
-
+## Q1:
 ![image](https://github.com/rohan-serwer/PFLAB23/assets/142867575/97c90cac-cb86-4cbf-91e8-39d52da17a7b)
+
+## Q2:
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/dc28a821-6643-4946-b492-a9fa6e3cbf78)
+
+
+## Q3:
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/dc13d8c5-9905-4e5d-9b3d-e99120fdd37a)
+
+## Q4:
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/efd76238-130e-439c-ac44-bf5cfa41248f)
+
+
+## Q5:
+
+
+## Q6:
+
+
+## Q7:
+
+
+## Q8:
+
+
+## Q9:
+
+
+## Q10:
