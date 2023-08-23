@@ -1,7 +1,4 @@
 # Rohan Serwer
-## R - S
-### R: Rain - because rain comes is a form of blessing
-
-````
-code here
-````
+## R: Rain - because rain comes is a form of blessing 
+## O levels FGS Taurus Campus, A Levels Private
+ 
