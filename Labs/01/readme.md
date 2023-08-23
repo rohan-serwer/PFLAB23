@@ -17,18 +17,13 @@
 
 
 ## Q5:
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/22c77a1e-9314-442d-a84c-21e151ac0078)
 
 
 ## Q6:
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/a891e5be-475b-48d1-b7de-5a23e6fef7d2)
 
 
 ## Q7:
 
-
-## Q8:
-
-
-## Q9:
-
-
-## Q10:
+![image](https://github.com/rohanserwerFAST/PFLAB23/assets/142867575/70bb7725-c76f-4ef4-a621-fe87f228a32e)
